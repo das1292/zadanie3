@@ -39,4 +39,3 @@
 #     return P
 # print(trapez())
 
-
