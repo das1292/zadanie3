@@ -63,4 +63,6 @@
 #     print('Wartość zakupów to',b, "zł.\nWszyskich produktów jest: ")
 #     return c
 # print(list(zakupy))
-
+#Zadanie9
+from ciagi import arytmetyczne
+from ciagi import geometryczne
